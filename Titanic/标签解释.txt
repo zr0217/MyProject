@@ -1,0 +1,28 @@
+PassengerId	乘客序号		
+	
+Pclass		客舱等级		1 = 上、2 = 中、3 = 下		社会经济地位（SES）的代理人
+
+Name		名字
+
+Sex		性别
+
+Age		年龄
+
+SibSp		泰坦尼克号上的兄弟姐妹/配偶数	
+
+Parch		泰坦尼克号上的父母/子女数量
+
+Ticket		票号
+
+Fare		旅客票价
+
+Cabin		机舱号
+
+Embarked	登船港口		C =瑟堡，Q =皇后镇，S =南安普敦
+	
+Survived	生产/死亡		0=死亡  1=生存
+										
+									
+
+
+									
